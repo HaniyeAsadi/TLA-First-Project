@@ -10,7 +10,7 @@ qs,a,qd
 It demonstrates that from qs state by reading the a alphabet, next state would be qd.
 $ is demonstrates λ.
 
-In the first question (Q1 file), we check that a string is accepted or rejected by the finite automata.
+In the first question (Q1 file), we check that a string is accepted or rejected by the finite automata.__
 The input will be a finite automata, and a string to check. Then the output will be "Accpeted" or "Rejected" depending on the string and the automata.
 One input and output example is represented:
 input:
